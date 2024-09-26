@@ -1,0 +1,1 @@
+# diamondinput1.py
